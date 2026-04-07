@@ -1,3 +1,3 @@
 export default function handler(req, res) {
-  res.status(200).send("Hello from Vercel");
+  res.status(200).send("Hello from Vercel,Satyam!");
 }
